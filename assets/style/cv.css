@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* display: inline-block; */
+}
+.article1 {
+    /* padding-left: 10px; */
+    border: 2px dashed red;
+    vertical-align: top;
+    display: inline-block;
+    width: 48%;
+    padding-left: 20px;
+}
+
+.article1 img {
+
+    width: 100px;
+}
+.article2 {
+    padding-left: 20px;
+    border: 2px dashed red;
+    display: inline-block;
+    vertical-align: top;
+    width: 48%;
+}
+.article2 img {
+    
+    width: 100px;
+}
